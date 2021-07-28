@@ -1,11 +1,10 @@
 ## Hello World! 👋
  
-**I’m a student at *Üsküdar University*** <br/>
+**I’m currently a student as a Computer Engineer in *Üsküdar University*** <br/>
 
 
-`-`
-[Linkedin](https://www.linkedin.com/in/irem-%C3%A7atak-801016178/)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcatak)](https://github.com/iremcatak/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcatak&layout=compact)](https://github.com/iremcatak/github-readme-stats)
 
 
