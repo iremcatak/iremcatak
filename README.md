@@ -1,6 +1,6 @@
 ## Hello World! 👋
  
-:closed_book:**I’m a student as a Computer Engineer at *Üsküdar University*** :closed_book:<br/>
+:closed_book:**I’m a Computer Engineering student at *Üsküdar University*** :closed_book:<br/>
 
 :snake: I’m currently learning Python.<br/>
 #### LANGUAGES <br/>
