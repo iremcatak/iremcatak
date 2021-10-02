@@ -2,7 +2,7 @@
  
 :closed_book:**I’m a Computer Engineering student at *Üsküdar University*** :closed_book:<br/>
 
-:snake: I’m currently learning HTML5,CSS3 and JAVASCRIPT.<br/>
+:snake: I’m currently learning HTML5,CSS3 and JAVASCRIPT and Unity.<br/>
 #### LANGUAGES <br/>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
